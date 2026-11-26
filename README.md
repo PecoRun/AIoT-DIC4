@@ -12,7 +12,7 @@
 
 ```
 ieee_paper.tex        
-bib/ieee_paper.bib    
+ieee_paper.bib
 ieee_latex/DIC_4.pdf
 ```
 
@@ -20,7 +20,7 @@ ieee_latex/DIC_4.pdf
 
 ### Overleaf
 
-1. 上傳 `ieee_paper.tex` 與 `bib/` 資料夾，保留目錄結構。
+1. 上傳 `ieee_paper.tex` 與 `ieee_paper.bib`，兩個檔案放在同一層。
 2. 在 Menu → Compiler 選擇 **pdfLaTeX**。
 3. 按 **Recompile**。
 
